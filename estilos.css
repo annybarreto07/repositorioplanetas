@@ -1,0 +1,19 @@
+body
+{
+padding: 10px;
+margin: 40px;
+font-size: 24px;
+font-family: Helvetica;
+background-image: url(https://th.bing.com/th/id/R.8b5ad6931c1a6e1405f40cf46b6cd91e?rik=6TvCNtn26%2b4Jhg&riu=http%3a%2f%2f1.bp.blogspot.com%2f-ldvzMAerhQc%2fTxNjggyNbqI%2fAAAAAAAAuaQ%2fLuceQLNGxbI%2fs1600%2fnuestra-galaxia-sistema-solar-espacio-space-view.jpg&ehk=ggUbVre79ja%2f3RihAbP%2bCibnjTLiN577CnjZggZ6ePc%3d&risl=&pid=ImgRaw&r=0);
+background-repeat: no-repeat;
+background-size: auto;
+color: white;
+}
+
+nav
+{
+background-color: white;
+padding: 0px;
+color: darkmagenta;
+
+}
